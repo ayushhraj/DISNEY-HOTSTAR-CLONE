@@ -40,7 +40,6 @@ Once the project is cloned and opened in a browser, you can navigate through the
 
 LINK: https://d77bzz.csb.app/
 
-> Include more screenshots or GIFs showing different parts of your project.
 
 ## Contributing
 
