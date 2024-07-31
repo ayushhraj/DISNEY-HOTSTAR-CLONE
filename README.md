@@ -23,7 +23,7 @@ This project is a clone of the popular streaming service Disney+Hotstar, created
 
 LINK: https://d77bzz.csb.app/
 
-##Certifications:
+## Certifications:
 - https://im.ge/i/ukc9E9
 - https://im.ge/i/ukc5DK
 - https://im.ge/i/ukcjJX
